@@ -608,6 +608,7 @@ Tools for building and operating AI conversation agents that hold structured dia
 - [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp) [![Perspective-AI/mcp MCP server](https://glama.ai/mcp/servers/Perspective-AI/mcp/badges/score.svg)](https://glama.ai/mcp/servers/Perspective-AI/mcp) 🎖️ 📇 ☁️ - Official MCP server for [Perspective AI](https://getperspective.ai). An AI Concierge replaces static forms with adaptive AI conversations for lead qualification, customer research, onboarding feedback, and advocacy. Design conversation agents (Concierge, Interviewer, Evaluator, Advocate), analyze conversations, deploy embeds, and automate follow-ups (webhook, email, Slack, HubSpot).
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 Provides access to customer profiles inside of customer data platforms
 
